@@ -1,5 +1,5 @@
 # BarrageGame
-*弾幕ゲームです  
+*弾幕ゲームです*  
 ![UI](https://github.com/OkanoShogo0903/BarrageGame/blob/master/image.jpg-large.jpg "イメージ画像")
 
 ## GameRule
