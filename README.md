@@ -1,6 +1,6 @@
 # BarrageGame
 *弾幕ゲームです  
-![UI](https://github.com/OkanoShogo0903/BarrageGame/blob/master/image.jpg-large "イメージ画像")
+![UI](https://github.com/OkanoShogo0903/BarrageGame/blob/master/image.jpg-large.jpg "イメージ画像")
 
 ## GameRule
 * アイテムを取ると弾幕がレベルアップ！  
